@@ -1,0 +1,23 @@
+[
+  {
+    "weight": "80kg",
+    "height": "1.65m",
+    "age": "35",
+    "goal": "I want to improve my overall health and fitness, I'm open to any suggestions.",
+    "restrictions": "I have a busy schedule and only have 30 minutes for workouts."
+  },
+  {
+    "weight": "90kg",
+    "height": "1.75m",
+    "age": "28",
+    "goal": "I want to build muscle, but I'm not sure how to do it effectively.",
+    "restrictions": "I don't have much time to work out and my gym only offers bodyweight exercises."
+  },
+  {
+    "weight": "70kg",
+    "height": "1.60m",
+    "age": "40",
+    "goal": "I want to increase my endurance and be able to run longer distances.",
+    "restrictions": "I'm not very experienced with running and I only have access to a small park with limited terrain."
+  }
+]
