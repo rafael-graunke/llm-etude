@@ -11,6 +11,8 @@ dependencies = [
     "ipykernel>=7.3.0",
     "litellm>=1.99.0",
     "numpy>=2.5.3",
+    "pypdf>=6.18.1",
+    "requests>=2.34.2",
 ]
 
 [tool.uv]
